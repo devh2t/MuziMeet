@@ -1,4 +1,4 @@
-## Moon Meet
+## MuziMeet
 
 <p float="left">
 <img src="https://img.shields.io/badge/license-GPL-blue.svg" />
@@ -17,11 +17,9 @@
 
 ### Description
 
-- **Moon Meet** is a social media platform including a chatting feature.
-- **Moon Meet** is a platform formed with Mobile Android App.
-- **Moon Meet** is licensed under the GNU GPL License 3.0.
-- **Moon Meet** is an open source project means that anyone can see, change, get the source code and can contribute to make this project more better.
-- **Moon Meet** is nothing without its contributors, so let's contribute together to make it alive!
+- **Moon Meet** is a social media of music event platform including a chatting feature,
+- **Moon Meet** is a platform formed with Mobile Android App & iOS
+
 
 ### Screenshots
 
@@ -95,32 +93,12 @@ And that summarized:
 - `refactor: Reformat code at File.*`
 - `chore: bump Moon Meet version from X.X.X to X.X.X `
 
-### Thanks for contributing
-
-##### Thanks goes to these wonderful people:
-
-- [Pranav Purwar](https://github.com/PranavPurwar): for Android CI Workflow.
-- [Ahmed Sbai](https://github.com/sbaiahmed1): for Supporting me since the beginning of Moon Meet.
-
-Thanks, they help to keep **Moon Meet** alive. It's better to have multiple people work on a project, for more ideas, fewer bugs. (sadly sometimes more), and generally quicker development. Each (helpful) contribution that gets thankfully accepted.
 
 ### Social
 
-- [Facebook](https://www.facebook.com/moonmeetofficial)
-- [Telegram](https://t.me/MoonMeet)
+
 
 ## License
 
 ```
-Copyright (C) 2022  SectionTN
-
-This program is free software: you can redistribute it and/or modify
-it is under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, 
-or any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
-```
+Copyright (C) 2022  
