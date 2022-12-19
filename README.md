@@ -9,6 +9,9 @@
 </p>
 <p>
 <a href='https://play.google.com/store/apps/details?id=org.moon.moonmeet&utm_campaign=Moon%20Meet&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+<img alt='Get it on Google Play' src='https://github.com/devh2t/MuziMeet/blob/main/assets/Screenshot%202022-12-19%20at%2015.55.46.png' width="150" height="150"/>
+<img alt='Get it on Google Play' src='https://github.com/devh2t/MuziMeet/blob/main/assets/Screenshot%202022-12-19%20at%2015.55.49.png' width="150" height="150"/>
+
 <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="150" height="65"/>
 </a>
 </p>
