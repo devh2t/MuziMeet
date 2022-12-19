@@ -17,8 +17,8 @@
 
 ### Description
 
-- **Moon Meet** is a social media of music event platform including a chatting feature,
-- **Moon Meet** is a platform formed with Mobile Android App & iOS
+- **MuziMeet** is a social media of music event platform including a chatting feature,
+- **MuziMeet** is a platform formed with Mobile Android App & iOS
 
 
 ### Screenshots
